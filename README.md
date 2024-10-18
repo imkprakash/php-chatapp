@@ -3,9 +3,9 @@ This is the backend code of a chat app written in PHP
 
 # Database Design
 
-Database name chatapp.db
+Database nam: chatapp.db
 
-Contains multiple tables for different purposes.
+Contains multiple tables for different purposes. \n
 Tables:
 1. Users
 	columns-
