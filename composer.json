@@ -1,0 +1,15 @@
+{
+    "name": "kshitiz/chatapp",
+    "description": "a simple chat application",
+    "authors": [
+        {
+            "name": "imkprakash",
+            "email": "kshitizprakash7454@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.14",
+        "nyholm/psr7": "^1.8",
+        "nyholm/psr7-server": "^1.1"
+    }
+}
