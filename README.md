@@ -5,7 +5,7 @@ This is the backend code of a chat app written in PHP
 
 Database nam: chatapp.db
 
-Contains multiple tables for different purposes. \n
+Contains multiple tables for different purposes.\
 Tables:
 1. Users
 	columns-
